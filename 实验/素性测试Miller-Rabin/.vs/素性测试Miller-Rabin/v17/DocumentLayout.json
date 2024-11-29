@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\86153\\Desktop\\\u5BC6\u7801\u5B66\\\u5B9E\u9A8C\\\u7D20\u6027\u6D4B\u8BD5Miller-Rabin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF2E407A-11EB-4B06-B20A-79F7E6ABCFE2}|\u7D20\u6027\u6D4B\u8BD5Miller-Rabin\\\u7D20\u6027\u6D4B\u8BD5Miller-Rabin.vcxproj|C:\\Users\\86153\\Desktop\\\u5BC6\u7801\u5B66\\\u5B9E\u9A8C\\\u7D20\u6027\u6D4B\u8BD5Miller-Rabin\\\u7D20\u6027\u6D4B\u8BD5Miller-Rabin\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FF2E407A-11EB-4B06-B20A-79F7E6ABCFE2}|\u7D20\u6027\u6D4B\u8BD5Miller-Rabin\\\u7D20\u6027\u6D4B\u8BD5Miller-Rabin.vcxproj|solutionrelative:\u7D20\u6027\u6D4B\u8BD5Miller-Rabin\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\\u5E94\u7528\u6570\u636E\\Wechat\\WeChat Files\\wxid_i1t2p2h8q5se22\\FileStorage\\File\\2024-11\\suxing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\86153\\Desktop\\\u5BC6\u7801\u5B66\\\u5B9E\u9A8C\\\u7D20\u6027\u6D4B\u8BD5Miller-Rabin\\\u7D20\u6027\u6D4B\u8BD5Miller-Rabin\\main.cpp",
+              "RelativeDocumentMoniker": "\u7D20\u6027\u6D4B\u8BD5Miller-Rabin\\main.cpp",
+              "ToolTip": "C:\\Users\\86153\\Desktop\\\u5BC6\u7801\u5B66\\\u5B9E\u9A8C\\\u7D20\u6027\u6D4B\u8BD5Miller-Rabin\\\u7D20\u6027\u6D4B\u8BD5Miller-Rabin\\main.cpp",
+              "RelativeToolTip": "\u7D20\u6027\u6D4B\u8BD5Miller-Rabin\\main.cpp",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAAABkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T07:59:10.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "b2f22b1a-8535-4b5a-b0b3-d0ba60dd1815",
+        "Display": 0,
+        "X": 320,
+        "Y": 190,
+        "Width": 1178,
+        "Height": 635,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "suxing.cpp",
+              "DocumentMoniker": "F:\\\u5E94\u7528\u6570\u636E\\Wechat\\WeChat Files\\wxid_i1t2p2h8q5se22\\FileStorage\\File\\2024-11\\suxing.cpp",
+              "ToolTip": "F:\\\u5E94\u7528\u6570\u636E\\Wechat\\WeChat Files\\wxid_i1t2p2h8q5se22\\FileStorage\\File\\2024-11\\suxing.cpp",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAowG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T08:34:26.789Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

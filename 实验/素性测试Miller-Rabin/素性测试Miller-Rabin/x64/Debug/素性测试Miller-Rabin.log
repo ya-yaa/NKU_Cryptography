@@ -1,3 +1,0 @@
-﻿  main.cpp
-C:\Users\86153\Desktop\密码学\实验\素性测试Miller-Rabin\素性测试Miller-Rabin\main.cpp(70,22): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
-  素性测试Miller-Rabin.vcxproj -> C:\Users\86153\Desktop\密码学\实验\素性测试Miller-Rabin\x64\Debug\素性测试Miller-Rabin.exe
